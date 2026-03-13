@@ -3,7 +3,7 @@
 
 Welcome to my GitHub profile! I specialize in creating custom, high-quality Discord bots tailored to your community's needs. I am motivated, active, and I love building useful tools that make server management easier and more fun.
 
-## :tools: What I Can Build for You
+##  What I Can Build for You
 I have experience creating a wide range of custom features, including:
 - :shield: **Moderation Systems** (Auto-mod, logging, warnings, ban/kick)
 - :ticket: **Ticket Systems** (Support channels, transcripts, automated replies)
