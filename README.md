@@ -35,7 +35,7 @@ I have experience creating a wide range of custom features, including:
 Here are some of the projects I've worked on :
 
 * :robot: **[Aegis - Bot](https://github.com/Kazux7/Aegis-DiscordBot)** : A custom Discord bot featuring advanced moderation, a ticket system, and an economy tracker. Built with Node.js and MongoDB.
-* 🎵 **[Carpxs - Bot](https://github.com/Kazux7/Carpxs-Bot)** : A powerful Discord music bot that allows servers to play and manage music directly from voice channels. Includes queue management, playback controls, and a smooth listening experience for communities.
+* 🎵 **[Carpxs - Bot](https://github.com/Kazux7/Carpxs-Music-Bot)** : A powerful Discord music bot that allows servers to play and manage music directly from voice channels. Includes queue management, playback controls, and a smooth listening experience for communities.
 * :video_game: **[fivem-custom-announcer](https://github.com/Kazux7/fivem-custom-announcer.git)** : A sleek, customizable NUI announcer script for FiveM using Lua, HTML, and CSS. 
 
 *(Note: Some of my client work is private, but I can provide demonstrations upon request!)*
